@@ -11,7 +11,7 @@ and rerolls until it finds what you want, with Discord notifications.
 
 ## Download
 
-Get **`TwisterX Auto Roller.exe`** from the [latest release](../../releases/latest) and double-click it.
+Get **`TwisterX-Auto-Roller.exe`** from the [latest release](../../releases/latest) and double-click it.
 That's it: Python, every package and Tesseract OCR are built into the EXE. Nothing else to install.
 
 > **"Windows protected your PC"?** The EXE isn't code-signed yet, so SmartScreen warns about it.
